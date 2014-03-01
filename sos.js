@@ -1,7 +1,7 @@
 /*!
- * sos 0.0.0+201402181736
+ * sos 0.0.1+201403010720
  * https://github.com/ryanve/sos
- * MIT License 2014 Ryan Van Etten
+ * MIT License (c) 2014 Ryan Van Etten
  */
 
 (function(root, name, make) {
